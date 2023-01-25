@@ -40,3 +40,5 @@ sysinfo.txt
 .gradle/
 Output/
 .vsconfig
+Logs/
+.idea/
